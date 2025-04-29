@@ -20,6 +20,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@sanity/image-url": "^1.1.0",
     "sanity": "^3.86.1"
   }
 }
